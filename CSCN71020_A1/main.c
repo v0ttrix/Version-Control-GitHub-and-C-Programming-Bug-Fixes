@@ -17,7 +17,7 @@ void main()
 	int inputNum;
 
 	printf("Enter operation number: ");
-	scanf("%1o", &inputNum);
+	scanf("%d", &inputNum);
 
 	switch (inputNum)
 	{
