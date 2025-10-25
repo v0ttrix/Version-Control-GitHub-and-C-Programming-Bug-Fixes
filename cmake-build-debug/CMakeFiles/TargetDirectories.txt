@@ -1,3 +1,0 @@
-/Users/mardini/Library/CloudStorage/OneDrive-ConestogaCollege/CSCN71020-24F-Sec1-Project I Software Implementation/ASN1/cmake-build-debug/CMakeFiles/ASN1.dir
-/Users/mardini/Library/CloudStorage/OneDrive-ConestogaCollege/CSCN71020-24F-Sec1-Project I Software Implementation/ASN1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/mardini/Library/CloudStorage/OneDrive-ConestogaCollege/CSCN71020-24F-Sec1-Project I Software Implementation/ASN1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
