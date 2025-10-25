@@ -138,10 +138,6 @@ Result: 15.500000 + 24.300000 = 39.800000
 4. **Maintainability** - Clean, documented code
 5. **Professional Standards** - Industry best practices
 
-## Author
-
-Jaden Mardini - Computer Science Student
-
 ## License
 
-This project is for educational purposes.
+This project is for fun ;)
